@@ -1,3 +1,3 @@
 # Full-Stack-App-with-User-Login
 
-![alt tag](websiteimg)
+![alt tag](websiteimg.png)
